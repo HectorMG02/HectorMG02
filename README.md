@@ -1,6 +1,6 @@
 # 💻 ¿Quién es Héctor?
 
-Hola, me llamo Héctor y tengo 21 años. Desde los 18 años trabajo como desarrollador y en la actualidad soy Front-End Lead Developer. Aunque mi trabajo principal es el desarrollo web, también tengo conocimientos en el desarrollo de software con python y en el mundo de la inteligencia artificial y el machine learning. Además, he empezado a desarrollar videojuegos, algo que me apasiona y quiero seguir haciendo en el futuro.
+Hola, me llamo Héctor y tengo 21 años. Desde los 18 años trabajo como desarrollador y en la actualidad soy Front-End Developer. Aunque mi trabajo principal es el desarrollo web, también tengo conocimientos en el desarrollo de software con python y en el mundo de la inteligencia artificial y el machine learning. Además, he empezado a desarrollar videojuegos, algo que me apasiona y quiero seguir haciendo en el futuro.
 
 La programación me atrajo desde el primer momento porque me permitió aprender cosas nuevas y sentir la sensación de crear algo desde cero y ver que funciona. A pesar de tener solo 21 años, he aprovechado muy bien el tiempo y he aprendido mucho por cuenta propia.
 
